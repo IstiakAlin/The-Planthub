@@ -1,3 +1,12 @@
+# TO-Run
+1. install Xampp v3.3.0 <br>
+2. start Apache and MySQL <br>
+3. http://localhost/phpmyadmin/<br>
+4. create table shop_db <br>
+5. upload sql file shop_db.sql <br>
+6. htdocs -->  http://localhost/phpmyadmin/filename <br>
+
+
 # The-Planthub
 Planthub is a lightweight website. The project includes a basic user authentication system, a homepage for navigation, and an order interface for tracking and managing orders. It’s ideal for small businesses or developers learning backend logic with PHP.
 
